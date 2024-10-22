@@ -1,4 +1,4 @@
-## HTTP response status codes.
+## HTTP RESPONSE STATUS CODES.
 
 - HTTP response status codes indicate whether a specific HTTP request has been successfully completed.
 
